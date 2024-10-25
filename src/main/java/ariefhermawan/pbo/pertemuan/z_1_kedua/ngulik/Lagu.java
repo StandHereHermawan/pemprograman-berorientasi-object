@@ -1,4 +1,4 @@
-package ariefhermawan.pbo.pertemuan.kedua.ngulik;
+package ariefhermawan.pbo.pertemuan.z_1_kedua.ngulik;
 
 import java.util.Arrays;
 

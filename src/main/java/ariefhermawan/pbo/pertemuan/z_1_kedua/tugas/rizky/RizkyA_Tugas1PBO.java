@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  */
 
-package ariefhermawan.pbo.pertemuan.kedua.tugas.rizky;
+package ariefhermawan.pbo.pertemuan.z_1_kedua.tugas.rizky;
 
 /**
  *

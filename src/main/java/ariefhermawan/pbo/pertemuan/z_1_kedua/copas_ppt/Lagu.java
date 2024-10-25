@@ -1,6 +1,4 @@
-package ariefhermawan.pbo.pertemuan.kedua.copas_ppt;
-
-import java.util.Arrays;
+package ariefhermawan.pbo.pertemuan.z_1_kedua.copas_ppt;
 
 class Lagu {
     char[] judul;

@@ -1,4 +1,4 @@
-package ariefhermawan.pbo.pertemuan.kedua.tugas.arief.data;
+package ariefhermawan.pbo.pertemuan.z_1_kedua.tugas.arief.data;
 
 //  class Menu {
 //      String[] arrayMenu;
