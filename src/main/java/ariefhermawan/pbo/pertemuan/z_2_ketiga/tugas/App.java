@@ -1,4 +1,4 @@
-package ariefhermawan.pbo.pertemuan.ketiga.tugas;
+package ariefhermawan.pbo.pertemuan.z_2_ketiga.tugas;
 
 public class App {
     public static void main(String[] args) {
@@ -11,8 +11,8 @@ public class App {
          *     menyebutkan package
          * </p>
          * */
-        ariefhermawan.pbo.pertemuan.ketiga.tugas.program_volume_tabung.app.Main.main(args);
-        ariefhermawan.pbo.pertemuan.ketiga.tugas.program_luas_trapesium.app.Main.main(args);
-        ariefhermawan.pbo.pertemuan.ketiga.tugas.program_luas_persegi_panjang.app.Main.main(args);
+        ariefhermawan.pbo.pertemuan.z_2_ketiga.tugas.program_volume_tabung.app.Main.main(args);
+        ariefhermawan.pbo.pertemuan.z_2_ketiga.tugas.program_luas_trapesium.app.Main.main(args);
+        ariefhermawan.pbo.pertemuan.z_2_ketiga.tugas.program_luas_persegi_panjang.app.Main.main(args);
     }
 }
